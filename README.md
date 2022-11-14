@@ -2,4 +2,4 @@
 # About
 Will be filled in eventually
 # Navigation
-[Working title: local docker swarm](drafts/draft1.md)
+[Docker Swarm on localhost through dind (Docker in Docker)](drafts/docker_swarm_on_localhost_through_dind.md)
