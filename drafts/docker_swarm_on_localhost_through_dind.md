@@ -1,6 +1,7 @@
 # Docker Swarm on localhost through dind (Docker in Docker)
 ## Brief
-Docker Swarm locally for expererimenting etc.
+Docker Swarm locally for experimenting etc.
+roughnote: hands on for checking logs, services spin on/off, etc.
 ## Subject
 host> docker run --privileged --interactive --tty --detach --name swarm-lab-manager docker:dind
 host> docker run --privileged --interactive --tty --detach --memory 4g --cpus 2 --name swarm-lab-worker1 docker:dind
